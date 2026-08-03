@@ -2,6 +2,9 @@
 
 Jellyfin Batch Renamer is a desktop application for organizing TV series libraries by renaming video and subtitle files to a consistent, Jellyfin-compatible format.
 
+<img width="1207" height="817" alt="Screenshot 2026-08-03 131010" src="https://github.com/user-attachments/assets/025bc1f8-5350-4cb0-a387-e2fa2c6bbefe" />
+
+
 ## Main Features
 
 - Batch renaming for video and subtitle files.
